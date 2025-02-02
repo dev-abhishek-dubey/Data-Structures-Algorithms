@@ -41,3 +41,17 @@
             </ul>
     </ul>
 </details>
+
+<details>
+    <summary><strong>Stack</strong></summary>
+    <ul>
+        <li><a href="/Stack/PushPopPeek.js">Push Pop & Peek</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary><strong>Queue</strong></summary>
+    <ul>
+        <li><a href="/Queue/PushPopPeek.js">Push Pop & Peek</a></li>
+    </ul>
+</details>
